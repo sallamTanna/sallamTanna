@@ -1,5 +1,5 @@
  
-![Hi](img.gif)
+![Hi](github-snake.svg)
 ### Hi, this is Sallam  👋
 
 <!--
